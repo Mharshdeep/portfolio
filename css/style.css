@@ -63,7 +63,14 @@ p {
   margin-left: 30px;
   height: 100px;
 }
-hr {
+.js-img{
+  width: 25%;
+  border-radius: 70%;
+  float: left;
+  margin-right: 30px;
+  height: 100px; 
+}
+  hr {
   border-color: #EAF6F6;
   border-style: dotted none none;
   width: 5%;
