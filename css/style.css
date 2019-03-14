@@ -66,8 +66,8 @@ p {
 .js-img{
   width: 25%;
   border-radius: 70%;
-  float: left;
-  margin-right: 30px;
+  float: right;
+  margin-left: 30px;
   height: 100px; 
 }
   hr {
